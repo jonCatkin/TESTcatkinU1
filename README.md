@@ -2,5 +2,5 @@
 ROS and deep learning - Ü1V1
 ## Version: jonwin@Evolution
 ## Windows Subsystem for Linux
-Datum: 24.12.2018
-Jonas H.
+### Datum: 24.12.2018
+### Jonas H.
